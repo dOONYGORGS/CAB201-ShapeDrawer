@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\jacob\source\repos\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\jacob\source\repos\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\jacob\source\repos\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\jacob\source\repos\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\jacob\source\repos\Draw\Draw\obj\Debug\Draw.csprojAssemblyReference.cache
